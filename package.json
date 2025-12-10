@@ -1,5 +1,5 @@
 {
-  "name": "educator-js-codespace-template",
+  "name": "javascript-portfolio",
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/microsoft/codespaces-teaching-template-js.git"
+    "url": "git+https://github.com/student-og/JavaScript-Portfolio.git"
   },
-  "author": "Microsoft",
+  "author": "student-og",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/microsoft/codespaces-teaching-template-js/issues"
+    "url": "https://github.com/student-og/JavaScript-Portfolio/issues"
   },
   "dependencies": {
     "react": "^18.2.0",
